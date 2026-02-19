@@ -5,6 +5,9 @@ Code Repository for the INTERSPEECH'24 Paper :
 
 The contents of this repository have been shifted to [Link](https://github.com/NLP-SBILAB/CAMuLeNet). Kindly refer to the same!
 
+# Dataset Access:
+Please fill this form for accessing the BhavVani dataset: [Form Link](https://forms.gle/9AqxS2oY4XVSeH1UA)
+
 ## Citation
 If our work was found helpful, please feel free to leave a star and cite our work using:
 ```bibtex
